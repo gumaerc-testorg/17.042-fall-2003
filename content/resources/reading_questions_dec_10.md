@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Pluralism and Federalism
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-042-citizenship-and-pluralism-fall-2003/3aed75875d411d94c553a0e70d3b56c4_reading_questions_dec_10.pdf
+file: /media/courses/17-042-citizenship-and-pluralism-fall-2003/3aed75875d411d94c553a0e70d3b56c4_reading_questions_dec_10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: reading_questions_dec_10.pdf
 uid: 3aed7587-5d41-1d94-c553-a0e70d3b56c4

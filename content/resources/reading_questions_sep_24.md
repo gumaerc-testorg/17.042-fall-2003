@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b42469e3-f1d8-c55c-73f0-eb49c457076a
 resourcetype: Document
 title: reading_questions_sep_24.pdf
 uid: b34a65e0-d323-30f2-58b3-f4c43ecb6cb9

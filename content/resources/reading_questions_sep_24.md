@@ -5,6 +5,7 @@ file: /courses/17-042-citizenship-and-pluralism-fall-2003/b34a65e0d32330f258b3f4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reading_questions_sep_24.pdf
 uid: b34a65e0-d323-30f2-58b3-f4c43ecb6cb9
 ---
 Liberal Arguments for Multicultural Citizenship
-

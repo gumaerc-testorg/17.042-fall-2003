@@ -5,6 +5,7 @@ file: /courses/17-042-citizenship-and-pluralism-fall-2003/4c6c8d5d36b2365dfc44fd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reading_questions_nov_5.pdf
 uid: 4c6c8d5d-36b2-365d-fc44-fdfafd04f2a0
 ---
 Cosmopolitan Views
-

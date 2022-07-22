@@ -5,6 +5,7 @@ file: /courses/17-042-citizenship-and-pluralism-fall-2003/f9fb8fa2dfe23708b19255
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reading_questions_sep_17.pdf
 uid: f9fb8fa2-dfe2-3708-b192-55e7ef1add87
 ---
 What is Pluralism? Pluralism of What?
-

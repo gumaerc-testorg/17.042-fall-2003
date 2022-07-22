@@ -5,6 +5,7 @@ file: /courses/17-042-citizenship-and-pluralism-fall-2003/10737b0918396e13c4ddcb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reading_questions_oct_1.pdf
 uid: 10737b09-1839-6e13-c4dd-cbfaab68558e
 ---
 Communitarian Arguments for Multicultural Citizenship
-

@@ -5,6 +5,7 @@ file: /courses/17-042-citizenship-and-pluralism-fall-2003/8b43e8d69ec81424088e8a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

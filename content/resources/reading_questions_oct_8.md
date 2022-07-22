@@ -5,6 +5,7 @@ file: /courses/17-042-citizenship-and-pluralism-fall-2003/6f57dc764d62ffbe470527
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reading_questions_oct_8.pdf
 uid: 6f57dc76-4d62-ffbe-4705-27edc34b16bb
 ---
 Diversity Arguments for Multicultural Citizenship
-

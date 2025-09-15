@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Liberal Arguments for Multicultural Citizenship
-file: /courses/17-042-citizenship-and-pluralism-fall-2003/b34a65e0d32330f258b3f4c43ecb6cb9_reading_questions_sep_24.pdf
+file: /ol-ocw-studio-app/courses/17-042-citizenship-and-pluralism-fall-2003/b34a65e0d32330f258b3f4c43ecb6cb9_reading_questions_sep_24.pdf
+file_size: 64094
 file_type: application/pdf
 learning_resource_types:
 - Assignments

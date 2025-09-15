@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Liberal Views of Citizenship
-file: /courses/17-042-citizenship-and-pluralism-fall-2003/d552a7f5d88e93e8775e9774558a1a75_reading_questions_oct_29.pdf
+file: /ol-ocw-studio-app/courses/17-042-citizenship-and-pluralism-fall-2003/d552a7f5d88e93e8775e9774558a1a75_reading_questions_oct_29.pdf
+file_size: 79610
 file_type: application/pdf
 learning_resource_types:
 - Assignments

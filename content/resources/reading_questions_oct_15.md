@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Critiques of Multiculturalism
-file: /courses/17-042-citizenship-and-pluralism-fall-2003/c8fe15ad4cd997c508b9c70b34d2721c_reading_questions_oct_15.pdf
+file: /ol-ocw-studio-app/courses/17-042-citizenship-and-pluralism-fall-2003/c8fe15ad4cd997c508b9c70b34d2721c_reading_questions_oct_15.pdf
+file_size: 78871
 file_type: application/pdf
 learning_resource_types:
 - Assignments

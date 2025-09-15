@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Pluralism and Gender
-file: /courses/17-042-citizenship-and-pluralism-fall-2003/2d5bc54fbdb205e4abd42cf1f338be35_reading_questions_dec_3.pdf
+file: /ol-ocw-studio-app/courses/17-042-citizenship-and-pluralism-fall-2003/2d5bc54fbdb205e4abd42cf1f338be35_reading_questions_dec_3.pdf
+file_size: 90325
 file_type: application/pdf
 learning_resource_types:
 - Assignments

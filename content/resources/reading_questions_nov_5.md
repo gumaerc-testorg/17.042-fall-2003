@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Cosmopolitan Views
-file: /courses/17-042-citizenship-and-pluralism-fall-2003/4c6c8d5d36b2365dfc44fdfafd04f2a0_reading_questions_nov_5.pdf
+file: /ol-ocw-studio-app/courses/17-042-citizenship-and-pluralism-fall-2003/4c6c8d5d36b2365dfc44fdfafd04f2a0_reading_questions_nov_5.pdf
+file_size: 64979
 file_type: application/pdf
 learning_resource_types:
 - Assignments
